@@ -7,4 +7,4 @@ Usar uma base de dados de uma pesquisa SocioEconômica realizada no curso de ADS
 
 OBS: 
 
-A base de dados não será disponibilizada.
+A base de dados não esta disponibilizada.
